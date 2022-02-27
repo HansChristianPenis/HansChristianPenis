@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HansChristianPenis
 - 👀 I’m interested in code lerning
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me Didscord - HansChristianPenis#5056
 
 <!---
